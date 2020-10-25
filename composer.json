@@ -1,5 +1,5 @@
 {
-    "name": "dmn/lumen-middleware",
+    "name": "dmn/middleware",
     "description": "Middleware for lumen",
     "type": "library",
     "license": "MIT",

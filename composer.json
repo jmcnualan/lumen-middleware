@@ -1,0 +1,17 @@
+{
+    "name": "dmn/lumen-middleware",
+    "description": "Middleware for lumen",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dmn"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Dmn\\Middleware\\": "src/"
+        }
+    },
+    "require": {}
+}

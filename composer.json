@@ -13,5 +13,8 @@
             "Dmn\\Middleware\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "symfony/http-foundation": "^5.1",
+        "illuminate/support": "^8.11"
+    }
 }

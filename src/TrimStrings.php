@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Middleware\Foundation;
+namespace Dmn\Middleware;
 
 class TrimStrings extends TransformsRequest
 {

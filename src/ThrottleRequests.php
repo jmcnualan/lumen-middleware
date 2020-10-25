@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Middleware\Foundation;
+namespace Dmn\Middleware;
 
 use Closure;
 use Illuminate\Cache\RateLimiter;
